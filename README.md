@@ -1,11 +1,21 @@
 # Stock Hawk
 
-This is the starter code for project 3 in Udacity's [Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801). 
+This is  project 3 in Udacity's [Android Developer Nanodegree].
+Stock Hawk gives you an opportunity to diagnose problems and practice improving apps. These skills are vital to building apps users will love.
 
-Check out Udacity's [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) course to get the skills you'll need to complete this project!
+Diagnosing issues with existing apps is key to working on large apps or continuing projects in Android. Being aware of the common pitfalls in app design frees a developer to produce novel app experiences without making the same mistakes over and over.
 
-If you're a Nanodegree student check your work againt the project [rubric](https://review.udacity.com/#!/rubrics/140/view), then click [here](https://classroom.udacity.com/nanodegrees/nd801/parts/8011345406/project) to submit your project.
+# What I Learned
+- Diagnose existing issues with an app.
+- Make an app accessible to sight-impaired users.
+- Allow your app to be localized for distribution in other countries.
+- Handle error cases in Android.
+- Add a widget to your app experience.
+- Leverage the functionality of a library in your app.
 
-# Contrubuting
+# Screenshots
+![alt tag](https://firebasestorage.googleapis.com/v0/b/foodbuzz-f558d.appspot.com/o/StockHawk1.png?alt=media&token=c9f40a12-d0a3-4337-8f01-c0a7c107f9e4)
 
-Pull requests gratefully accepted.
+
+![alt tag](https://firebasestorage.googleapis.com/v0/b/foodbuzz-f558d.appspot.com/o/StockHawk2.png?alt=media&token=80325fc6-9a1f-4e94-a3f0-ae63a16b801b)
+
